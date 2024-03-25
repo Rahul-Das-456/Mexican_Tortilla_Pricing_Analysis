@@ -1,6 +1,5 @@
 # Mexican_Tortilla_Pricing_Analysis
-Mexican Tortilla Pricing Analysis
-Mexican Tortilla Pricing Analysis
+
 Overview:
 This project aims to explore and analyze tortilla pricing trends in Mexico, focusing on the differences in prices among supermarkets, convenience stores, and traditional markets. Using datasets from Kaggle and Consumer Price Index (CPI) data, we investigate how tortilla prices have evolved over time and explore potential factors influencing these trends.
 
@@ -33,6 +32,7 @@ Follow the step-by-step instructions in the notebooks to reproduce the analysis.
 Refer to the documentation in the /docs directory for additional insights and interpretations.
 
 Dependencies: Python 3.x, Jupyter Notebook, Pandas, Matplotlib, Seaborn
+
 Contributions:
 Contributions to this project are welcome! If you have suggestions, enhancements, or bug fixes, feel free to submit a pull request or open an issue.
 
