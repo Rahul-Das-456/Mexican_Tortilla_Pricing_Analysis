@@ -33,8 +33,8 @@ Refer to the documentation in the /docs directory for additional insights and in
 
 Dependencies: Python 3.x, Jupyter Notebook, Pandas, Matplotlib, Seaborn
 
-**Contributions**:
+Contributions:
 Contributions to this project are welcome! If you have suggestions, enhancements, or bug fixes, feel free to submit a pull request or open an issue.
 
-**License**:
+License:
 This project is licensed under the MIT License.
