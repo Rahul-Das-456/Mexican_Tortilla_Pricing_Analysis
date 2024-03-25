@@ -17,8 +17,11 @@ Integration with CPI Data: Contextualize tortilla price trends by correlating wi
 Project Structure:
 
 /data: Contains datasets used in the analysis, including tortilla price data and CPI indices.
+
 /notebooks: Jupyter notebooks detailing the data analysis process, visualizations, and interpretations.
+
 /images: Images of visualizations generated from the analysis.
+
 /docs: Documentation providing project objectives, dataset descriptions, analysis techniques, findings, and conclusions.
 
 Getting Started:
@@ -28,12 +31,8 @@ Clone this repository to your local machine.
 Navigate to the /notebooks directory and open the Jupyter notebook files.
 Follow the step-by-step instructions in the notebooks to reproduce the analysis.
 Refer to the documentation in the /docs directory for additional insights and interpretations.
-Dependencies:
-Python 3.x
-Jupyter Notebook
-Pandas
-Matplotlib
-Seaborn
+
+Dependencies: Python 3.x, Jupyter Notebook, Pandas, Matplotlib, Seaborn
 Contributions:
 Contributions to this project are welcome! If you have suggestions, enhancements, or bug fixes, feel free to submit a pull request or open an issue.
 
